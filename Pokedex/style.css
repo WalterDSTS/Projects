@@ -48,6 +48,10 @@ h1 {
   left: 25%;
 }
 
+.ghost {
+	background-color: #7886c0;
+}
+
 .steel {
 	background-color: #f4f4f4;
 }
@@ -81,7 +85,7 @@ h1 {
 }
 
 .poison {
-	background-color: #98d7a5;
+	background-color: #de8df7;
 }
 
 .bug {
